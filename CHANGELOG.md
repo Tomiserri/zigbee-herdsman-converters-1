@@ -1,5 +1,18 @@
 # Changelog
 
+## [24.3.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.2.0...v24.3.0) (2025-07-15)
+
+
+### Features
+
+* S520530W: expose action ([#9622](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9622)) ([5075e9a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5075e9a2f1c1f85067f8cec22afa5839e14914af))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE200_wdfurkoa` as Zemismart ZM25R1 https://github.com/Koenkk/zigbee2mqtt/issues/27981 ([4ce4c2a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/4ce4c2abf0fe851bdd8fe2d93a1f5871c3b7eb41))
+* Fix ZG-101ZD and ZG-303Z bug ([#9623](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9623)) ([4275931](https://github.com/Koenkk/zigbee-herdsman-converters/commit/4275931105788ec04b5b671640a2c86efa97f131))
+
 ## [24.2.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.1.0...v24.2.0) (2025-07-14)
 
 
